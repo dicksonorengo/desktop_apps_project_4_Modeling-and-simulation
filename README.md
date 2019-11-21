@@ -15,7 +15,7 @@ Modeling and simulation
 # Documentation for desktop (simulation )
 This repository contains source files for the work-in-progress 
 
-The documentation are located in a separate repository at 
+The documentation are located in a separate repository  
 </br ></br ></br ></br ></br ></br ></br ></br ></br ></br ></br >
 
 
