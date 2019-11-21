@@ -12,11 +12,10 @@ Modeling and simulation
 
 
 
-Visual Studio documentation for Microsoft C++
-Welcome! This repository contains source files for the work-in-progress Microsoft C++ (MSVC or Visual C++) technical documentation. The articles are published on the C++ in Visual Studio documentation site.
+# Documentation for desktop (simulation )
+This repository contains source files for the work-in-progress 
 
-The documentation for Visual Basic and Visual C# are located in a separate repository at https://github.com/dotnet/core-docs, and the Visual Studio documentation is located in the repository located at https://github.com/Microsoft/visualstudio-docs.
-
+The documentation are located in a separate repository at 
 </br ></br ></br ></br ></br ></br ></br ></br ></br ></br ></br >
 
 
