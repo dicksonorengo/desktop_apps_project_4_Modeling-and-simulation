@@ -43,4 +43,4 @@ Develop Email*  orengo@techadvisor.co.ke
 website: www.techadvisor.co.ke
 
 
-/docs/ @doctocat
+monagak team
