@@ -37,7 +37,7 @@ Created by [monagak team](http://MONAGAK.co.ke) with much help from the communit
 
 
 
-docs/*  docs@example.com
+Develop Email*  [docs@example.com](mail:orengo@techadvisor.co.ke)
 
 
 /docs/ @doctocat
